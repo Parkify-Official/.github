@@ -1,6 +1,6 @@
 <div align=center >
 <a align=center href="https://highonbugs.hashnode.dev/" target="_blank">
-    <img width="200px" src="./logo.png"/>
+    <img width="200px" src="./logo_cirle.png"/>
 </a>
 </div>
 
